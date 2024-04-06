@@ -1,4 +1,5 @@
-# Nike - Unveiling Trends in Unisex Footwear: A Journey from Web Scraping to ML Analysi
+# Nike - Unveiling Trends in Unisex Footwear: A Journey from Web Scraping to ML Analysis
+
  👟 Unveiling Trends in Nike Unisex Footwear: A Journey from Web Scraping to ML Analysis
 
 ## Project Overview
