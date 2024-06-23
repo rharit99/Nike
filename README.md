@@ -36,7 +36,7 @@ The project utilizes Latent Dirichlet Allocation (LDA) for theme discovery in pr
 ## Recommendations
 - Enhance marketing messages to highlight identified themes more prominently.
 - Standardize product descriptions to reflect marketing focus more clearly.
-- Differentiate premium products in descriptions to highlight their unique value.
+- Differentiate premium products in descriptions to highlight their unique value. 
 
 ## Business Value
 These insights and recommendations aim to improve product development, refine marketing strategies, and enhance consumer satisfaction, ensuring Nike's continued growth and industry leadership.
